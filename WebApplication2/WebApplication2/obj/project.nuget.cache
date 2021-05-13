@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Klyw3IbfgSYHYxil1eB0gmIndlOcMmipuLjoT6dNtm4qbWo3VdXIf4PxcMaQ9cBioUY6v/2X0q4G7ct8oCLKaA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\OfficeProject\\bichhanda\\Demo\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bichhanda.COZENTUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
